@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Anamelechi
+- 👀 I’m interested in Networking
+- 🌱 I’m currently learning Cloud Computing Architecture
+- 💞️ I’m looking to collaborate on Building a Data Server
+- 📫 To reach me you have to look within
+- 😄 Pronouns: not him
+- ⚡ Fun fact: I am new to this
